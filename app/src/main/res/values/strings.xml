@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="title_popular">Popular</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="title_settings">Settings</string>
+    <string name="base_setting_prompt">Choose currency to load as default</string>
+    <string name="cache_setting_prompt">Update currencies list</string>
+    <string name="cache_setting_prompt_small">"The cache will be overridden in next app start"</string>
+    <string name="loading">"Loading.."</string>
+    <string name="error">"Can not load rates.\n%1$s\nCheck internet connection or try to restart app"</string>
+</resources>

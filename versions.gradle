@@ -1,0 +1,10 @@
+buildscript {
+    ext{
+        lifecycle_version = "2.5.1"
+        navigation_version = "2.5.1"
+        retrofit_version = "2.9.0"
+        version_moshi = "1.13.0"
+        room_version = "2.4.2"
+        version_dagger = "2.38.1"
+    }
+}
